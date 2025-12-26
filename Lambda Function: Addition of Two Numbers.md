@@ -24,7 +24,7 @@ for i in range(rows):
     for j in range(i + 1):
         print(factorial(i) // (factorial(j) * factorial(i - j)), end=" ")
     print()
-```
+```  
 ## Output
 
 <img width="796" height="173" alt="exp1" src="https://github.com/user-attachments/assets/b6db587c-6c4f-4ece-8d7b-f0daa89b449c" />
