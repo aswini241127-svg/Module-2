@@ -11,14 +11,14 @@ To write a Python program that defines a function which accepts two values and r
 5. Call the `result` function with the user-provided values.
 
 ## 🧾 Program
-
+```
 # Define the lambda function
 add = lambda a, b: a + b
 
 # Example usage
 result = add(4, 5)
 print("Sum is:", result)
-
+```
 ## Output
 
 <img width="346" height="80" alt="exp1" src="https://github.com/user-attachments/assets/3dee4aae-640d-412a-8149-40e79c24511d" />
