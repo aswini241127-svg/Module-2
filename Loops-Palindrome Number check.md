@@ -16,7 +16,15 @@ To write a Python program that checks whether a given number is a **palindrome**
    - Else, print that it is not a palindrome.
 
 ## 🧾 Program
-Add code Here
+```
+def find_modulo(a, b):
+    return a % b
+result = find_modulo(17, 5)
+print("17 % 5 =", result)
+```
 ## Output
 
+<img width="198" height="58" alt="exp1" src="https://github.com/user-attachments/assets/2606af91-005f-4283-85f1-856d208bb421" />
+
 ## Result
+The program successfully defines a function and returns the modulo of the two inputs
